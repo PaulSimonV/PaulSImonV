@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**PaulSimonV/PaulSImonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student passionate about Business Intelligence, data, and technology. Here, you'll find projects related to BI, analytics, and more.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student exploring the world of data and tech
+- 📊 Interested in Business Intelligence & Analytics
+- 💡 Always learning and building new projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What You'll Find Here
+- BI dashboards and reports
+- Data analysis and visualization projects
+- Code for automating and optimizing workflows
+- Experimentation with different technologies
+
+## 🔧 Tech Stack
+- **Languages:** Python, SQL, JavaScript
+- **Tools:** Power BI, Tableau, Excel, Pandas, NumPy
+- **Databases:** MySQL, PostgreSQL
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/paul-simon-vuchula-29644b1a8/
+- Email: paulsimonvuchula@gmail.com
+
+Thanks for stopping by! Feel free to explore my projects and collaborate. 🚀
+
