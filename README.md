@@ -1,5 +1,5 @@
 # Hi there! 👋
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW42Mm5rdXNjNzZwbzFwcGxweWViaTdkcXNyYjM3MWk4ZGE5c2NrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9qemh1La8b0Rag/giphy.gif
 Welcome to my GitHub profile! I'm a student passionate about Business Intelligence, data, and technology. Here, you'll find projects related to BI, analytics, and more.
 
 ## 🚀 About Me
