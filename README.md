@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![giphy](https://github.com/user-attachments/assets/d730b4c6-8b63-426b-8acb-278bd23450c4)
+![giphy](https://github.com/user-attachments/assets/fc93de06-1a48-4f7a-bb33-3f310ad18453)
 
 Welcome to my GitHub profile! I'm a student passionate about Business Intelligence, data, and technology. Here, you'll find projects related to BI, analytics, and more.
 
